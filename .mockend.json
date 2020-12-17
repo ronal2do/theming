@@ -1,6 +1,6 @@
 {
   "Colors": {
-    backgroundColor: string,
+    "backgroundColor": "string",
   },
   "Themes": {
     "name": "string",
