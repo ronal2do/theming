@@ -1,0 +1,8 @@
+{
+  "Colors": {
+    backgroundColor: string,
+  },
+  "Themes": {
+    "name": "string",
+  }
+}
